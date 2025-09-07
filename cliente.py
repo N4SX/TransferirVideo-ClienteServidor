@@ -4,7 +4,7 @@ import requests
 import os
 import webbrowser
 
-SERVER_URL = "http://127.0.0.1:5000"
+SERVER_URL = "http://10.180.43.53:5000"
 MEDIA_DIR = "media_cliente"
 
 class ClienteApp:
