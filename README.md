@@ -87,7 +87,20 @@ python cliente.py
 5. O cliente pode visualizar histórico, baixar e abrir os vídeos.
 
 ---
+## Capturas de Tela
 
+-   Tela do aplicativo Android com botão **"Tirar e Enviar"**\
+	![tela aplicativo](cliente.jpeg)
+
+-   Video original
+  
+	![video antes do processamento](original.jpeg)
+
+- Janela do servidor mostrando as fotos recebidas
+  
+	![video após o processamento](processado.jpeg)
+
+------------------------------------------------------------------------
 ## Desenvolvido por:
   ## James Sousa
   ## Vanderlei Carvalho
