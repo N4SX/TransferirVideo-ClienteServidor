@@ -87,8 +87,8 @@ python cliente.py
 ---
 
 ## Desenvolvido por:
-   James Sousa
-   Vanderlei Carvalho
-   David Natan
+  # James Sousa
+  # Vanderlei Carvalho
+  # David Natan
 
-- **README.md** com instruções de execução.
+
