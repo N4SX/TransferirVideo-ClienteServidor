@@ -90,15 +90,15 @@ python cliente.py
 ## Capturas de Tela
 
 -   Tela do aplicativo Android com botão **"Tirar e Enviar"**\
-	![tela aplicativo](cliente.jpeg)
+	![tela aplicativo](client.png)
 
 -   Video original
   
-	![video antes do processamento](original.jpeg)
+	![video antes do processamento](original.png)
 
 - Janela do servidor mostrando as fotos recebidas
   
-	![video após o processamento](processado.jpeg)
+	![video após o processamento](processado.png)
 
 ------------------------------------------------------------------------
 ## Desenvolvido por:
