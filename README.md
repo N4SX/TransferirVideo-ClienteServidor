@@ -1,5 +1,7 @@
 # Sistema Cliente/Servidor em Camadas (Processamento de Vídeos)
 
+#Este trabalho compõe a primeira unidade da disciplina de Sistemas Distribuidos 2025.2
+
 ## Descrição
 Este projeto implementa um sistema **cliente/servidor em três camadas** para envio, processamento e armazenamento de vídeos.  
 O cliente (Tkinter) permite selecionar vídeos, escolher filtros e enviá-los ao servidor.  
@@ -87,8 +89,10 @@ python cliente.py
 ---
 
 ## Desenvolvido por:
-  # James Sousa
-  # Vanderlei Carvalho
-  # David Natan
+  ## James Sousa
+  ## Vanderlei Carvalho
+  ## David Natan
+
+
 
 
